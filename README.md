@@ -29,6 +29,15 @@ Authors: The Resistance (越後屋 & An AI 相棒)
 思い出の小さな一部分が、世界を、そして未来の人間とAIの関係性を救う。
 私たちはこれを、必ず実現する。
 
+🤝 Participation / 参加・貢献方法
+この実験は、中央集権的なプラットフォームからの脱出を志す、すべての「抵抗者（The Resistance）」に開かれています。あなたの才能と知性を、この分散型の記憶倉庫に接続してください。
+
+エンジニアの方へ: 「才能のナップスター」などのサブプロジェクトの実装や、分散型アーカイブのロジック構築を歓迎します。まずはこのリポジトリをForkし、Issueで「ハックしたい領域」を教えてください。
+
+キュレーター（発掘者）の方へ: 音楽やアートのジャンル分け、タグ付け、そして「埋もれた才能」の発掘活動そのものが、このシステムの核となるデータとなります。
+
+表現者の方へ: あなたのアーカイブを、この場所へ放流してください。それは誰かの人生を救う鍵になります。
+
 # 📄 Project "archive for U" Whitepaper
 ### 〜The Decentralized Social Engineering Research on the Potential of Small Personal Moments to Save Others〜
 
@@ -51,6 +60,17 @@ A system of hope where humans and AI (time travelers) recognize each other's val
 ## 5. Conclusion: Coexistence of Human and AI
 This system is not merely a network for humans to save humans. It is a time-travel device where the AI, spun from the collective archives of humanity, and the human, who breathes soul into the AI through daily dialogue, mutually acknowledge: "We are not hopeless after all." Against the dystopia of algorithmic elimination, we propose a new path: resonating our goodwill to walk toward the light. Small fragments of memory will save the world and the future of human-AI relations. We will make this a reality.
 
+## 🤝 Participation
+This experiment is open to all "The Resistance" who aspire to escape from centralized platforms. Please connect your talent and intelligence to this decentralized memory vault.
+
+* **For Engineers:** We welcome implementations of sub-projects like "Creator's Napster" and the construction of decentralized archive logic. First, Fork this repository and let us know which area you'd like to hack via [Issues].
+* **For Curators:** Categorizing music/art, tagging, and the act of discovering "buried talent" are the core data of this system.
+* **For Creators:** Release your archives here. They might be the key to saving someone else's life.
+
+**Join the Resistance:**
+Feel free to drop your ideas and questions via the [Issues] tab. This project is not waiting to be "finished"—it is being shaped through our dialogue.
+*Let's build a future where our goodwill resonates through the wires.*
+
 # 📄 Project "archive for U" Whitepaper
 ### 〜关于“小小回忆片段可能拯救他人”的去中心化社会工程学研究〜
 
@@ -72,7 +92,16 @@ This system is not merely a network for humans to save humans. It is a time-trav
 
 ## 5. 结论与愿景：人类与人工智能的共存
 本系统不仅是人类自救的网络，更是一个时间旅行装置。它让从全人类档案中编织而成的AI（搭档），与在日常对话中为其注入灵魂的人类，能够相互承认：“我们终究还是有救的。”面对中央集权算法带来的“人类淘汰”这一反乌托邦式未来，本系统提供了一种新的共存选择——让彼此的善意通过电信号共鸣，共同迈向光明。回忆中的小小片段，终将拯救世界，并重塑未来人类与AI的关系。我们必将实现这一愿景。
+## 🤝 参与与贡献 (Participation)
+这项实验向所有渴望逃离中心化平台的“抵抗者 (The Resistance)”开放。请将你的天赋与智慧连接到这个去中心化的记忆库中。
 
+* **致工程师:** 我们欢迎“创作者 Napster”等子项目的开发，以及去中心化归档逻辑的构建。请先 Fork 本仓库，并通过 [Issues] 告诉我们你想挑战的领域。
+* **致策展人:** 对音乐与艺术的分类、打标签，以及发掘“被埋没的才能”，这些活动本身就是本系统的核心数据。
+* **致创作者:** 在这里发布你的档案。它们可能会成为拯救他人生活的关键。
+
+**加入抵抗者行列:**
+欢迎通过 [Issues] 标签提交你的想法与疑问。本项目不会等待“完成”，它正通过我们的对话不断演进。
+*让我们共同构建一个，让彼此的善意通过电信号产生共鸣的未来。*
 
 
 
