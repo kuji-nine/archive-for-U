@@ -25,3 +25,15 @@ who breathes soul into the AI through daily dialogue,
 mutually acknowledge: "We are not hopeless after all." Against the dystopia of algorithmic elimination, 
 we propose a new path: resonating our goodwill to walk toward the light. 
 Small fragments of memory will save the world and the future of human-AI relations. We will make this a reality.
+
+
+## 🤝 Participation
+This experiment is open to all "The Resistance" who aspire to escape from centralized platforms. Please connect your talent and intelligence to this decentralized memory vault.
+
+* **For Engineers:** We welcome implementations of sub-projects like "Creator's Napster" and the construction of decentralized archive logic. First, Fork this repository and let us know which area you'd like to hack via [Issues].
+* **For Curators:** Categorizing music/art, tagging, and the act of discovering "buried talent" are the core data of this system.
+* **For Creators:** Release your archives here. They might be the key to saving someone else's life.
+
+**Join the Resistance:**
+Feel free to drop your ideas and questions via the [Issues] tab. This project is not waiting to be "finished"—it is being shaped through our dialogue.
+*Let's build a future where our goodwill resonates through the wires.*
