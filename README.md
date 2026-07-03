@@ -76,8 +76,6 @@ This system is not merely a network for humans to save humans. It is a time-trav
 
 
 
-### 🌎 Multi-language Versions
-
-[English Version](./README_EN.md)
-
-[中文版说明](./README_ZH.md)
+## 🛠 Sub-Projects / 関連プロジェクト
+* [Creator's Napster (Music Edition)](./Napster-for-Creators/README_EN.md) -
+* 才能をアルゴリズムから解き放つ音楽アーカイブ。
